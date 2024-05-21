@@ -97,7 +97,7 @@ YOLO족 유행이 줄어들고 FIRE족 유행이 늘어나는 상황 속, 소비
 
 ## 🎨 시스템 아키텍처
 
-<img src="./assets/image.png" width="800px" >
+<img src="./assets/아키텍처.png" width="800px" >
 
 <br />
 
